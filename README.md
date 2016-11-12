@@ -1,0 +1,2 @@
+# calculus_big_homework
+我用来写数分大作业的一些python代码，其中部分使用了matplotlib来绘制图像。
